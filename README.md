@@ -1,51 +1,26 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Projeto desenvolvido para o desafio **Natty or Not** da Digital Innovation One. O desafio consiste em utilizar tecnologias de **IAs generativas** para criar conteúdos que sejam os mais realistas possíveis.
+
+O avatar virtual **Sarah** aborda, em um vídeo de 44 segundos, o tema **Transformação Digital**, explicando como a integração de tecnologias digitais em todos os aspectos de um negócio pode trazer agilidade, melhorar a tomada de decisões e personalizar a experiência do cliente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- IA Generativa [Gemini](https://gemini.google.com/) Prompt e Conteúdo
+- IA Generativa [ChatGPT](https://chatgpt.com/) Revisão e Adaptação de Texto
+- IA Generativa [Vidnoz AI](https://aiapp-pt.vidnoz.com/) Avatar Virtual e Edição de Vídeo 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+A princípio, o [prompt](https://docs.google.com/document/d/1zEI-79e8Y57NDcr-3CDdJSCfNaa_n3SbfzdWT00S8PA/edit?usp=drive_link) foi inserido no Gemini, gerando um [conteúdo](https://docs.google.com/document/d/1NvKse9x1vT68BWKFA4AQZuuHM2TLP9AkX05N_6eiFVo/edit?usp=drive_link) mais abrangente que, posteriormente, precisou ser [adaptado](https://docs.google.com/document/d/1inKSeULmSei17G3p9obo2EeTKN2oP_DxRTv0ZWwNgWs/edit?usp=drive_link), o que impactou diretamente na qualidade do conteúdo apresentado. Utilizei o querido ChatGPT para a adaptação e correção do texto. O avatar virtual foi criado através da plataforma Vidnoz AI, que fornece 60 segundos gratuitos diários.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 🚀 Resultado
 
-### Exemplos e Insigths
+Confira o resultado [AQUI!](https://share.vidnoz.com/aivideo?id=6944637)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto foi de grande valia e nos leva à ideia de que as **IAs generativas** vieram para facilitar nosso dia a dia, seja na criação de conteúdo, na automação de tarefas ou na personalização de experiências.
